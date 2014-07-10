@@ -1,0 +1,331 @@
+gnome-session[1242]: WARNING: Session 'ubuntu' runnable check failed: コード 1 で終了しました
+
+(gnome-settings-daemon:1294): power-plugin-WARNING **: gnome-session is not available
+unity-2d-panel: [DEBUG] Scanning panel plugin directory "/usr/lib/unity-2d/plugins/panel" 
+unity-2d-panel: [DEBUG] Loading panel plugin: "/usr/lib/unity-2d/plugins/panel/libpanelplugin-appindicator.so" 
+unity-2d-panel: [DEBUG] Loading panel plugin: "/usr/lib/unity-2d/plugins/panel/libpanelplugin-appname.so" 
+unity-2d-panel: [DEBUG] Loading panel plugin: "/usr/lib/unity-2d/plugins/panel/libpanelplugin-indicator.so" 
+unity-2d-panel: [DEBUG] Loading panel plugin: "/usr/lib/unity-2d/plugins/panel/libpanelplugin-legacytray.so" 
+unity-2d-panel: [DEBUG] Loading panel plugin: "/usr/lib/unity-2d/plugins/panel/libpanelplugin-separator.so" 
+unity-2d-shell: [DEBUG] bool KeyMonitor::registerEvents(): Could not open device:  Virtual core pointer 
+unity-2d-shell: [DEBUG] bool KeyMonitor::registerEvents(): Could not open device:  Virtual core keyboard 
+unity-2d-panel: [DEBUG] Configured plugins list is: ("appname", "!legacytray", "indicator") 
+unity-2d-shell: [DEBUG] static void WindowImageProvider::activateComposite(): Server supports the Composite extension (ver 0.4)
+unity-2d-panel: [DEBUG] bool KeyMonitor::registerEvents(): Could not open device:  Virtual core pointer 
+unity-2d-panel: [DEBUG] bool KeyMonitor::registerEvents(): Could not open device:  Virtual core keyboard 
+unity-2d-panel: [WARNING] X Error: BadWindow (invalid Window parameter) 3
+  Major opcode: 18 (X_ChangeProperty)
+  Resource id:  0x0
+
+(gnome-settings-daemon:1294): color-plugin-WARNING **: failed to get edid: unable to get EDID for output
+XInput version 2.2 found
+unity-2d-panel: [DEBUG] virtual void Hotkey::connectNotify(const char*): Grabbing hotkey "Alt+F10" 
+unity-2d-panel: [WARNING] X Error: BadWindow (invalid Window parameter) 3
+  Major opcode: 20 (X_GetProperty)
+  Resource id:  0x2000004
+unity-2d-panel: [WARNING] X Error: BadWindow (invalid Window parameter) 3
+  Major opcode: 20 (X_GetProperty)
+  Resource id:  0x2000007
+
+(gnome-settings-daemon:1294): color-plugin-WARNING **: unable to get EDID for xrandr-default: unable to get EDID for output
+
+(gnome-settings-daemon:1294): color-plugin-WARNING **: failed to reset xrandr-default gamma tables: gamma size is zero
+unity-2d-shell: [WARNING] libindicator: Desktop file '/usr/share/applications/libreoffice-writer.desktop' is using a deprecated format for its actions that will be dropped soon.
+unity-2d-shell: [WARNING] libindicator: Desktop file '/usr/share/applications/libreoffice-calc.desktop' is using a deprecated format for its actions that will be dropped soon.
+unity-2d-shell: [WARNING] libindicator: Desktop file '/usr/share/applications/libreoffice-impress.desktop' is using a deprecated format for its actions that will be dropped soon.
+** Message: applet now removed from the notification area
+unity-2d-shell: [DEBUG] virtual void Hotkey::connectNotify(const char*): Grabbing hotkey "Meta+S" 
+unity-2d-shell: [DEBUG] virtual void Hotkey::connectNotify(const char*): Grabbing hotkey "Meta+T" 
+unity-2d-shell: [WARNING] Object::connect: No such signal Lenses::roleNamesChanged(QHash<int,QByteArray>) in /build/buildd/unity-2d-5.14.0/libunity-2d-private/src/qsortfilterproxymodelqml.cpp:65
+unity-2d-shell: [WARNING] void QSortFilterProxyModelQML::setSourceModelQObject(QObject*): received a sourceModel that does not notify of changes of its roleNames 
+unity-2d-shell: [WARNING] file:///usr/share/unity-2d/shell/hud/Hud.qml:145: TypeError: Result of expression 'shellManager.hudShell' [null] is not an object.
+unity-2d-shell: [DEBUG] virtual void Hotkey::connectNotify(const char*): Grabbing hotkey "Alt+F1" 
+unity-2d-shell: [DEBUG] virtual void Hotkey::connectNotify(const char*): Grabbing hotkey "Alt+F2" 
+unity-2d-shell: [DEBUG] virtual void Hotkey::connectNotify(const char*): Grabbing hotkey "Meta+0" 
+unity-2d-shell: [DEBUG] virtual void Hotkey::connectNotify(const char*): Grabbing hotkey "Meta+Shift+0" 
+unity-2d-shell: [DEBUG] virtual void Hotkey::connectNotify(const char*): Grabbing hotkey "Meta+ퟀ" 
+unity-2d-shell: [DEBUG] virtual void Hotkey::connectNotify(const char*): Grabbing hotkey "Meta+1" 
+unity-2d-shell: [DEBUG] virtual void Hotkey::connectNotify(const char*): Grabbing hotkey "Meta+Shift+1" 
+unity-2d-shell: [DEBUG] virtual void Hotkey::connectNotify(const char*): Grabbing hotkey "Meta+ퟀ" 
+unity-2d-shell: [DEBUG] virtual void Hotkey::connectNotify(const char*): Grabbing hotkey "Meta+2" 
+unity-2d-shell: [DEBUG] virtual void Hotkey::connectNotify(const char*): Grabbing hotkey "Meta+Shift+2" 
+unity-2d-shell: [DEBUG] virtual void Hotkey::connectNotify(const char*): Grabbing hotkey "Meta+ퟀ" 
+unity-2d-shell: [DEBUG] virtual void Hotkey::connectNotify(const char*): Grabbing hotkey "Meta+3" 
+unity-2d-shell: [DEBUG] virtual void Hotkey::connectNotify(const char*): Grabbing hotkey "Meta+Shift+3" 
+unity-2d-shell: [DEBUG] virtual void Hotkey::connectNotify(const char*): Grabbing hotkey "Meta+ퟀ" 
+unity-2d-shell: [DEBUG] virtual void Hotkey::connectNotify(const char*): Grabbing hotkey "Meta+4" 
+unity-2d-shell: [DEBUG] virtual void Hotkey::connectNotify(const char*): Grabbing hotkey "Meta+Shift+4" 
+unity-2d-shell: [DEBUG] virtual void Hotkey::connectNotify(const char*): Grabbing hotkey "Meta+ퟀ" 
+unity-2d-shell: [DEBUG] virtual void Hotkey::connectNotify(const char*): Grabbing hotkey "Meta+5" 
+unity-2d-shell: [DEBUG] virtual void Hotkey::connectNotify(const char*): Grabbing hotkey "Meta+Shift+5" 
+unity-2d-shell: [DEBUG] virtual void Hotkey::connectNotify(const char*): Grabbing hotkey "Meta+ퟀ" 
+unity-2d-shell: [DEBUG] virtual void Hotkey::connectNotify(const char*): Grabbing hotkey "Meta+6" 
+unity-2d-shell: [DEBUG] virtual void Hotkey::connectNotify(const char*): Grabbing hotkey "Meta+Shift+6" 
+unity-2d-shell: [DEBUG] virtual void Hotkey::connectNotify(const char*): Grabbing hotkey "Meta+ퟀ" 
+unity-2d-shell: [DEBUG] virtual void Hotkey::connectNotify(const char*): Grabbing hotkey "Meta+7" 
+unity-2d-shell: [DEBUG] virtual void Hotkey::connectNotify(const char*): Grabbing hotkey "Meta+Shift+7" 
+unity-2d-shell: [DEBUG] virtual void Hotkey::connectNotify(const char*): Grabbing hotkey "Meta+ퟀ" 
+unity-2d-shell: [DEBUG] virtual void Hotkey::connectNotify(const char*): Grabbing hotkey "Meta+8" 
+unity-2d-shell: [DEBUG] virtual void Hotkey::connectNotify(const char*): Grabbing hotkey "Meta+Shift+8" 
+unity-2d-shell: [DEBUG] virtual void Hotkey::connectNotify(const char*): Grabbing hotkey "Meta+ퟀ" 
+unity-2d-shell: [DEBUG] virtual void Hotkey::connectNotify(const char*): Grabbing hotkey "Meta+9" 
+unity-2d-shell: [DEBUG] virtual void Hotkey::connectNotify(const char*): Grabbing hotkey "Meta+Shift+9" 
+unity-2d-shell: [DEBUG] virtual void Hotkey::connectNotify(const char*): Grabbing hotkey "Meta+ퟀ" 
+unity-2d-shell: [WARNING] void ApplicationsList::remoteEntryUpdated(const QString&, const QString&, const QString&, const QMap<QString, QVariant>&): Application sent an update but we don't seem to have it in the launcher: "application://nautilus.desktop" 
+unity-2d-shell: [WARNING] void ApplicationsList::remoteEntryUpdated(const QString&, const QString&, const QString&, const QMap<QString, QVariant>&): Application sent an update but we don't seem to have it in the launcher: "application://nautilus.desktop" 
+unity-2d-shell: [WARNING] [31mvoid DBusMenuImporter::slotMenuAboutToShow()[0m: Application did not answer to AboutToShow() before timeout 
+unity-2d-shell: [DEBUG] virtual void Hotkey::connectNotify(const char*): Grabbing hotkey "Meta+A" 
+unity-2d-shell: [DEBUG] virtual void Hotkey::connectNotify(const char*): Grabbing hotkey "Meta+F" 
+unity-2d-shell: [DEBUG] virtual void Hotkey::connectNotify(const char*): Grabbing hotkey "Meta+M" 
+unity-2d-shell: [DEBUG] virtual void Hotkey::connectNotify(const char*): Grabbing hotkey "Meta+V" 
+unity-2d-shell: [WARNING] void ApplicationsList::remoteEntryUpdated(const QString&, const QString&, const QString&, const QMap<QString, QVariant>&): Application sent an update but we don't seem to have it in the launcher: "application://empathy.desktop" 
+unity-2d-shell: [WARNING] void ApplicationsList::remoteEntryUpdated(const QString&, const QString&, const QString&, const QMap<QString, QVariant>&): Application sent an update but we don't seem to have it in the launcher: "application://empathy.desktop" 
+
+** (gsd-backlight-helper:1662): WARNING **: failed to find any devices
+
+(gnome-settings-daemon:1294): power-plugin-WARNING **: failed to set dim backlight to 30%: gsd-backlight-helper failed: 
+unity-2d-shell: [CRITICAL] dee: clone_leader: assertion `dee_model_get_n_rows (DEE_MODEL (self)) == 0' failed
+
+** (gsd-backlight-helper:4580): WARNING **: failed to find any devices
+
+(gnome-settings-daemon:1294): power-plugin-WARNING **: failed to set dim backlight to 30%: gsd-backlight-helper failed: 
+
+** (gsd-backlight-helper:8976): WARNING **: failed to find any devices
+
+(gnome-settings-daemon:1294): power-plugin-WARNING **: failed to set dim backlight to 30%: gsd-backlight-helper failed: 
+
+** (gsd-backlight-helper:20923): WARNING **: failed to find any devices
+
+(gnome-settings-daemon:1294): power-plugin-WARNING **: failed to set dim backlight to 30%: gsd-backlight-helper failed: 
+
+** (gsd-backlight-helper:22691): WARNING **: failed to find any devices
+
+(gnome-settings-daemon:1294): power-plugin-WARNING **: failed to set dim backlight to 30%: gsd-backlight-helper failed: 
+
+** (gsd-backlight-helper:22771): WARNING **: failed to find any devices
+
+(gnome-settings-daemon:1294): power-plugin-WARNING **: failed to set dim backlight to 30%: gsd-backlight-helper failed: 
+
+** (gsd-backlight-helper:22846): WARNING **: failed to find any devices
+
+(gnome-settings-daemon:1294): power-plugin-WARNING **: failed to set dim backlight to 30%: gsd-backlight-helper failed: 
+
+** (gsd-backlight-helper:22853): WARNING **: failed to find any devices
+
+(gnome-settings-daemon:1294): power-plugin-WARNING **: failed to set dim backlight to 30%: gsd-backlight-helper failed: 
+
+** (gsd-backlight-helper:22866): WARNING **: failed to find any devices
+
+(gnome-settings-daemon:1294): power-plugin-WARNING **: failed to set dim backlight to 30%: gsd-backlight-helper failed: 
+
+** (gsd-backlight-helper:22906): WARNING **: failed to find any devices
+
+(gnome-settings-daemon:1294): power-plugin-WARNING **: failed to set dim backlight to 30%: gsd-backlight-helper failed: 
+
+** (gsd-backlight-helper:22964): WARNING **: failed to find any devices
+
+(gnome-settings-daemon:1294): power-plugin-WARNING **: failed to set dim backlight to 30%: gsd-backlight-helper failed: 
+
+** (gsd-backlight-helper:22994): WARNING **: failed to find any devices
+
+(gnome-settings-daemon:1294): power-plugin-WARNING **: failed to set dim backlight to 30%: gsd-backlight-helper failed: 
+
+** (gsd-backlight-helper:23004): WARNING **: failed to find any devices
+
+(gnome-settings-daemon:1294): power-plugin-WARNING **: failed to set dim backlight to 30%: gsd-backlight-helper failed: 
+
+** (gsd-backlight-helper:23020): WARNING **: failed to find any devices
+
+(gnome-settings-daemon:1294): power-plugin-WARNING **: failed to set dim backlight to 30%: gsd-backlight-helper failed: 
+
+** (gsd-backlight-helper:23080): WARNING **: failed to find any devices
+
+(gnome-settings-daemon:1294): power-plugin-WARNING **: failed to set dim backlight to 30%: gsd-backlight-helper failed: 
+
+** (gsd-backlight-helper:23099): WARNING **: failed to find any devices
+
+(gnome-settings-daemon:1294): power-plugin-WARNING **: failed to set dim backlight to 30%: gsd-backlight-helper failed: 
+
+** (gsd-backlight-helper:23110): WARNING **: failed to find any devices
+
+(gnome-settings-daemon:1294): power-plugin-WARNING **: failed to set dim backlight to 30%: gsd-backlight-helper failed: 
+
+** (gsd-backlight-helper:23124): WARNING **: failed to find any devices
+
+(gnome-settings-daemon:1294): power-plugin-WARNING **: failed to set dim backlight to 30%: gsd-backlight-helper failed: 
+
+** (gsd-backlight-helper:23125): WARNING **: failed to find any devices
+
+(gnome-settings-daemon:1294): power-plugin-WARNING **: failed to set dim backlight to 30%: gsd-backlight-helper failed: 
+
+** (gsd-backlight-helper:23138): WARNING **: failed to find any devices
+
+(gnome-settings-daemon:1294): power-plugin-WARNING **: failed to set dim backlight to 30%: gsd-backlight-helper failed: 
+
+** (gsd-backlight-helper:23163): WARNING **: failed to find any devices
+
+(gnome-settings-daemon:1294): power-plugin-WARNING **: failed to set dim backlight to 30%: gsd-backlight-helper failed: 
+
+** (gsd-backlight-helper:23174): WARNING **: failed to find any devices
+
+(gnome-settings-daemon:1294): power-plugin-WARNING **: failed to set dim backlight to 30%: gsd-backlight-helper failed: 
+
+** (gsd-backlight-helper:23223): WARNING **: failed to find any devices
+
+(gnome-settings-daemon:1294): power-plugin-WARNING **: failed to set dim backlight to 30%: gsd-backlight-helper failed: 
+
+** (gsd-backlight-helper:23245): WARNING **: failed to find any devices
+
+(gnome-settings-daemon:1294): power-plugin-WARNING **: failed to set dim backlight to 30%: gsd-backlight-helper failed: 
+
+** (gsd-backlight-helper:23310): WARNING **: failed to find any devices
+
+(gnome-settings-daemon:1294): power-plugin-WARNING **: failed to set dim backlight to 30%: gsd-backlight-helper failed: 
+ウィンドウマネージャーの警告: Received a NET_CURRENT_DESKTOP message from a broken (outdated) client who sent a 0 timestamp
+unity-2d-shell: [WARNING] Wnck: Received a timestamp of 0; window activation may not function properly.
+
+ウィンドウマネージャーの警告: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x40000b6 (uuu - Goog)
+ウィンドウマネージャーの警告: meta_window_activate called by a pager with a 0 timestamp; the pager needs to be fixed.
+ウィンドウマネージャーの警告: Received a NET_CURRENT_DESKTOP message from a broken (outdated) client who sent a 0 timestamp
+unity-2d-shell: [WARNING] Wnck: Received a timestamp of 0; window activation may not function properly.
+
+ウィンドウマネージャーの警告: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x4200005 (hiruma@hib)
+ウィンドウマネージャーの警告: meta_window_activate called by a pager with a 0 timestamp; the pager needs to be fixed.
+ウィンドウマネージャーの警告: Received a NET_CURRENT_DESKTOP message from a broken (outdated) client who sent a 0 timestamp
+unity-2d-shell: [WARNING] Wnck: Received a timestamp of 0; window activation may not function properly.
+
+ウィンドウマネージャーの警告: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x4200005 (hiruma@hib)
+ウィンドウマネージャーの警告: meta_window_activate called by a pager with a 0 timestamp; the pager needs to be fixed.
+ウィンドウマネージャーの警告: Received a NET_CURRENT_DESKTOP message from a broken (outdated) client who sent a 0 timestamp
+unity-2d-shell: [WARNING] Wnck: Received a timestamp of 0; window activation may not function properly.
+
+ウィンドウマネージャーの警告: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x4200005 (hiruma@hib)
+ウィンドウマネージャーの警告: meta_window_activate called by a pager with a 0 timestamp; the pager needs to be fixed.
+
+** (gsd-backlight-helper:23491): WARNING **: failed to find any devices
+
+(gnome-settings-daemon:1294): power-plugin-WARNING **: failed to set dim backlight to 30%: gsd-backlight-helper failed: 
+
+** (gsd-backlight-helper:23505): WARNING **: failed to find any devices
+
+(gnome-settings-daemon:1294): power-plugin-WARNING **: failed to set dim backlight to 30%: gsd-backlight-helper failed: 
+
+** (gsd-backlight-helper:23513): WARNING **: failed to find any devices
+
+(gnome-settings-daemon:1294): power-plugin-WARNING **: failed to set dim backlight to 30%: gsd-backlight-helper failed: 
+
+** (gsd-backlight-helper:23526): WARNING **: failed to find any devices
+
+(gnome-settings-daemon:1294): power-plugin-WARNING **: failed to set dim backlight to 30%: gsd-backlight-helper failed: 
+
+** (gsd-backlight-helper:23528): WARNING **: failed to find any devices
+
+(gnome-settings-daemon:1294): power-plugin-WARNING **: failed to set dim backlight to 30%: gsd-backlight-helper failed: 
+
+** (gsd-backlight-helper:23634): WARNING **: failed to find any devices
+
+(gnome-settings-daemon:1294): power-plugin-WARNING **: failed to set dim backlight to 30%: gsd-backlight-helper failed: 
+
+** (gsd-backlight-helper:23640): WARNING **: failed to find any devices
+
+(gnome-settings-daemon:1294): power-plugin-WARNING **: failed to set dim backlight to 30%: gsd-backlight-helper failed: 
+
+** (gsd-backlight-helper:23657): WARNING **: failed to find any devices
+
+(gnome-settings-daemon:1294): power-plugin-WARNING **: failed to set dim backlight to 30%: gsd-backlight-helper failed: 
+
+** (gsd-backlight-helper:23670): WARNING **: failed to find any devices
+
+(gnome-settings-daemon:1294): power-plugin-WARNING **: failed to set dim backlight to 30%: gsd-backlight-helper failed: 
+
+** (gsd-backlight-helper:23676): WARNING **: failed to find any devices
+
+(gnome-settings-daemon:1294): power-plugin-WARNING **: failed to set dim backlight to 30%: gsd-backlight-helper failed: 
+
+** (gsd-backlight-helper:23718): WARNING **: failed to find any devices
+
+(gnome-settings-daemon:1294): power-plugin-WARNING **: failed to set dim backlight to 30%: gsd-backlight-helper failed: 
+
+** (gsd-backlight-helper:23729): WARNING **: failed to find any devices
+
+(gnome-settings-daemon:1294): power-plugin-WARNING **: failed to set dim backlight to 30%: gsd-backlight-helper failed: 
+unity-2d-shell: [WARNING] QDBusError("org.freedesktop.DBus.Error.UnknownMethod", "パス /org/ayatana/bamf/application1060793347 のオブジェクト上にインターフェース 'org.ayatana.bamf.application' がありません") 
+unity-2d-shell: [WARNING] QDBusError("org.freedesktop.DBus.Error.UnknownMethod", "パス /org/ayatana/bamf/application1060793347 のオブジェクト上にインターフェース 'org.ayatana.bamf.view' がありません") 
+unity-2d-shell: [WARNING] QDBusError("org.freedesktop.DBus.Error.UnknownMethod", "パス /org/ayatana/bamf/application1060793347 のオブジェクト上にインターフェース 'org.ayatana.bamf.application' がありません") 
+unity-2d-shell: [WARNING] QDBusError("org.freedesktop.DBus.Error.UnknownMethod", "パス /org/ayatana/bamf/application1060793347 のオブジェクト上にインターフェース 'org.ayatana.bamf.view' がありません") 
+unity-2d-shell: [WARNING] QDBusError("org.freedesktop.DBus.Error.UnknownMethod", "パス /org/ayatana/bamf/application1060793347 のオブジェクト上にインターフェース 'org.ayatana.bamf.view' がありません") 
+unity-2d-shell: [WARNING] QDBusError("org.freedesktop.DBus.Error.UnknownMethod", "パス /org/ayatana/bamf/application1060793347 のオブジェクト上にインターフェース 'org.ayatana.bamf.view' がありません") 
+unity-2d-shell: [WARNING] QDBusError("org.freedesktop.DBus.Error.UnknownMethod", "パス /org/ayatana/bamf/application1060793347 のオブジェクト上にインターフェース 'org.ayatana.bamf.view' がありません") 
+
+** (gsd-backlight-helper:23748): WARNING **: failed to find any devices
+
+(gnome-settings-daemon:1294): power-plugin-WARNING **: failed to set dim backlight to 30%: gsd-backlight-helper failed: 
+
+** (gsd-backlight-helper:23782): WARNING **: failed to find any devices
+
+(gnome-settings-daemon:1294): power-plugin-WARNING **: failed to set dim backlight to 30%: gsd-backlight-helper failed: 
+
+** (gsd-backlight-helper:23905): WARNING **: failed to find any devices
+
+(gnome-settings-daemon:1294): power-plugin-WARNING **: failed to set dim backlight to 30%: gsd-backlight-helper failed: 
+
+** (gsd-backlight-helper:23967): WARNING **: failed to find any devices
+
+(gnome-settings-daemon:1294): power-plugin-WARNING **: failed to set dim backlight to 30%: gsd-backlight-helper failed: 
+
+** (gsd-backlight-helper:23999): WARNING **: failed to find any devices
+
+(gnome-settings-daemon:1294): power-plugin-WARNING **: failed to set dim backlight to 30%: gsd-backlight-helper failed: 
+
+** (gsd-backlight-helper:24174): WARNING **: failed to find any devices
+
+(gnome-settings-daemon:1294): power-plugin-WARNING **: failed to set dim backlight to 30%: gsd-backlight-helper failed: 
+
+** (gsd-backlight-helper:24218): WARNING **: failed to find any devices
+
+(gnome-settings-daemon:1294): power-plugin-WARNING **: failed to set dim backlight to 30%: gsd-backlight-helper failed: 
+
+** (gsd-backlight-helper:24223): WARNING **: failed to find any devices
+
+(gnome-settings-daemon:1294): power-plugin-WARNING **: failed to set dim backlight to 30%: gsd-backlight-helper failed: 
+
+** (gsd-backlight-helper:24258): WARNING **: failed to find any devices
+
+(gnome-settings-daemon:1294): power-plugin-WARNING **: failed to set dim backlight to 30%: gsd-backlight-helper failed: 
+ウィンドウマネージャーの警告: Received a NET_CURRENT_DESKTOP message from a broken (outdated) client who sent a 0 timestamp
+unity-2d-shell: [WARNING] Wnck: Received a timestamp of 0; window activation may not function properly.
+
+ウィンドウマネージャーの警告: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x40000b6 (SampleApp )
+ウィンドウマネージャーの警告: meta_window_activate called by a pager with a 0 timestamp; the pager needs to be fixed.
+unity-2d-shell: [WARNING] QDBusError("org.freedesktop.DBus.Error.UnknownMethod", "パス /org/ayatana/bamf/application1932146384 のオブジェクト上にインターフェース 'org.ayatana.bamf.application' がありません") 
+unity-2d-shell: [WARNING] QDBusError("org.freedesktop.DBus.Error.UnknownMethod", "パス /org/ayatana/bamf/application1932146384 のオブジェクト上にインターフェース 'org.ayatana.bamf.view' がありません") 
+unity-2d-shell: [WARNING] QDBusError("org.freedesktop.DBus.Error.UnknownMethod", "パス /org/ayatana/bamf/application1932146384 のオブジェクト上にインターフェース 'org.ayatana.bamf.application' がありません") 
+unity-2d-shell: [WARNING] QDBusError("org.freedesktop.DBus.Error.UnknownMethod", "パス /org/ayatana/bamf/application1932146384 のオブジェクト上にインターフェース 'org.ayatana.bamf.view' がありません") 
+unity-2d-shell: [WARNING] QDBusError("org.freedesktop.DBus.Error.UnknownMethod", "パス /org/ayatana/bamf/application1932146384 のオブジェクト上にインターフェース 'org.ayatana.bamf.view' がありません") 
+unity-2d-shell: [WARNING] QDBusError("org.freedesktop.DBus.Error.UnknownMethod", "パス /org/ayatana/bamf/application1932146384 のオブジェクト上にインターフェース 'org.ayatana.bamf.view' がありません") 
+unity-2d-shell: [WARNING] QDBusError("org.freedesktop.DBus.Error.UnknownMethod", "パス /org/ayatana/bamf/application1932146384 のオブジェクト上にインターフェース 'org.ayatana.bamf.view' がありません") 
+javaldx: Could not find a Java Runtime Environment! 
+Please ensure that a JVM and the package libreoffice-java-common
+is installed.
+If it is already installed then try removing ~/.libreoffice/3/user/config/javasettings_Linux_*.xml
+Warning: failed to read path from javaldx
+unity-2d-shell: [WARNING] libindicator: Desktop file '/usr/share/applications/libreoffice-impress.desktop' is using a deprecated format for its actions that will be dropped soon.
+unity-2d-shell: [WARNING] QDBusError("org.freedesktop.DBus.Error.UnknownMethod", "パス /org/ayatana/bamf/application1763573721 のオブジェクト上にインターフェース 'org.ayatana.bamf.application' がありません") 
+unity-2d-shell: [WARNING] QDBusError("org.freedesktop.DBus.Error.UnknownMethod", "パス /org/ayatana/bamf/application1763573721 のオブジェクト上にインターフェース 'org.ayatana.bamf.view' がありません") 
+unity-2d-shell: [WARNING] QDBusError("org.freedesktop.DBus.Error.UnknownMethod", "パス /org/ayatana/bamf/application1763573721 のオブジェクト上にインターフェース 'org.ayatana.bamf.view' がありません") 
+unity-2d-shell: [WARNING] QDBusError("org.freedesktop.DBus.Error.UnknownMethod", "パス /org/ayatana/bamf/application1763573721 のオブジェクト上にインターフェース 'org.ayatana.bamf.view' がありません") 
+unity-2d-shell: [WARNING] QDBusError("org.freedesktop.DBus.Error.UnknownMethod", "パス /org/ayatana/bamf/application1763573721 のオブジェクト上にインターフェース 'org.ayatana.bamf.view' がありません") 
+unity-2d-shell: [WARNING] QDBusError("org.freedesktop.DBus.Error.UnknownMethod", "パス /org/ayatana/bamf/application1932146384 のオブジェクト上にインターフェース 'org.ayatana.bamf.application' がありません") 
+unity-2d-shell: [WARNING] QDBusError("org.freedesktop.DBus.Error.UnknownMethod", "パス /org/ayatana/bamf/application1932146384 のオブジェクト上にインターフェース 'org.ayatana.bamf.view' がありません") 
+unity-2d-shell: [WARNING] QDBusError("org.freedesktop.DBus.Error.UnknownMethod", "パス /org/ayatana/bamf/application1932146384 のオブジェクト上にインターフェース 'org.ayatana.bamf.application' がありません") 
+unity-2d-shell: [WARNING] QDBusError("org.freedesktop.DBus.Error.UnknownMethod", "パス /org/ayatana/bamf/application1932146384 のオブジェクト上にインターフェース 'org.ayatana.bamf.view' がありません") 
+unity-2d-shell: [WARNING] QDBusError("org.freedesktop.DBus.Error.UnknownMethod", "パス /org/ayatana/bamf/application1932146384 のオブジェクト上にインターフェース 'org.ayatana.bamf.view' がありません") 
+unity-2d-shell: [WARNING] QDBusError("org.freedesktop.DBus.Error.UnknownMethod", "パス /org/ayatana/bamf/application1932146384 のオブジェクト上にインターフェース 'org.ayatana.bamf.view' がありません") 
+unity-2d-shell: [WARNING] QDBusError("org.freedesktop.DBus.Error.UnknownMethod", "パス /org/ayatana/bamf/application1932146384 のオブジェクト上にインターフェース 'org.ayatana.bamf.view' がありません") 
+unity-2d-shell: [WARNING] QDBusError("org.freedesktop.DBus.Error.UnknownMethod", "パス /org/ayatana/bamf/application1932146384 のオブジェクト上にインターフェース 'org.ayatana.bamf.application' がありません") 
+unity-2d-shell: [WARNING] QDBusError("org.freedesktop.DBus.Error.UnknownMethod", "パス /org/ayatana/bamf/application1932146384 のオブジェクト上にインターフェース 'org.ayatana.bamf.view' がありません") 
+unity-2d-shell: [WARNING] QDBusError("org.freedesktop.DBus.Error.UnknownMethod", "パス /org/ayatana/bamf/application1932146384 のオブジェクト上にインターフェース 'org.ayatana.bamf.application' がありません") 
+unity-2d-shell: [WARNING] QDBusError("org.freedesktop.DBus.Error.UnknownMethod", "パス /org/ayatana/bamf/application1932146384 のオブジェクト上にインターフェース 'org.ayatana.bamf.view' がありません") 
+unity-2d-shell: [WARNING] QDBusError("org.freedesktop.DBus.Error.UnknownMethod", "パス /org/ayatana/bamf/application1932146384 のオブジェクト上にインターフェース 'org.ayatana.bamf.view' がありません") 
+unity-2d-shell: [WARNING] QDBusError("org.freedesktop.DBus.Error.UnknownMethod", "パス /org/ayatana/bamf/application1932146384 のオブジェクト上にインターフェース 'org.ayatana.bamf.view' がありません") 
+unity-2d-shell: [WARNING] QDBusError("org.freedesktop.DBus.Error.UnknownMethod", "パス /org/ayatana/bamf/application1932146384 のオブジェクト上にインターフェース 'org.ayatana.bamf.view' がありません") 

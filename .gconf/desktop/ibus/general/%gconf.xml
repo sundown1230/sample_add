@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="preload_engines" mtime="1404097009" type="list" ltype="string">
+		<li type="string">
+			<stringvalue>anthy</stringvalue>
+		</li>
+	</entry>
+	<entry name="preload_engine_mode" mtime="1404097009" type="int" value="1"/>
+</gconf>
